@@ -1,0 +1,17 @@
+const str = 'hello, intocode';
+for(let i = 0; i <= 10; i++){
+    console.log(str)
+}
+// const newStr = 'hello, intocode';
+// for(let i = 0; i <= 1000000; i++){
+//     console.log(str)
+// }
+for(let i = 0; i <= 100; i++){
+    console.log(i)
+}
+for(let i = 500; i <= 1000; i++){
+    console.log(i)
+}
+for(let i = 1000; i >= 0; i--){
+    console.log(i)
+}
